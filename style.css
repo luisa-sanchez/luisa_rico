@@ -1,0 +1,19 @@
+  .login-container {
+      max-width: 1000px;
+      margin: 50px auto;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+      border-radius: 15px;
+      overflow: hidden;
+    }
+    .login-form, .welcome-text {
+      padding: 40px;
+    }
+    .welcome-box {
+      background-color: #f1fdf4;
+      border-left: 5px solid #4CAF50;
+      border-radius: 10px;
+      padding: 25px;
+      color: #2e7d32;
+      box-shadow: 0 0 8px rgba(0, 128, 0, 0.1);
+    }
+    
